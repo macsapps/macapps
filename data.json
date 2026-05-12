@@ -1,6 +1,29 @@
 [
     {
         "architecture": "[\"ARM\",\"x86 (64-bit)\",\"ARM\",\"x86（64 位元）\"]",
+        "description": "GraphicConverter在全球拥有超过150万忠实用户——从业余摄影师到专业设计师。媒体称此程序相当于“瑞士军刀”，将其描述为“Mac上照片编辑的通用天才”。\n\nGraphicConverter 提供 Mac 上全面图像编辑程序所需的一切，并具有易用性、出色的功能范围、稳定性和可靠性。\n\n导入和导出功能：\n- 导入约200种并导出约80种图形格式\n- 目录生成（网络、打印、图片）\n- 图片直接从相机导入（也称为RAW）\n- 通过TWAIN和图像捕获支持扫描仪\n- 直接支持照片服务Flickr和DPHOTO\n\n图片组织和工作流程管理：\n- 市场上最复杂、最灵活的元数据管理\n- 高级反向地理标记\n- 基于人工智能的自动关键字（提供多个人工智能引擎）\n- 图形文件和图片浏览器\n- 幻灯片放映功能\n- 批量转换\n- 对AppleScript的支持\n- 面部检测\n\n图片编辑：\n- 快速图片增强功能\n- 增强和创建用于互联网的图片\n- 编辑图片的基本功能\n- 用于图片操作的高级功能、效果和滤镜\n- 插件架构\n- 使用ColorSync和ICC配置文件进行颜色管理\n- 3D图像支持\n- 地理数据的广泛功能\n\n兼容：\n- 支持不同macOS版本的最新技术\n- 支持HEIC/HEIF、webP或JPEG2000等新格式\n- 多语种-有12种可用语言",
+        "enName": "GraphicConverter",
+        "icon": "/images/c3c85b2fe447008.webp",
+        "installInfo": "",
+        "languages": "多语言（12种语言）",
+        "myShare": [
+            {
+                "text": "v12.5.2",
+                "url": "https://pan.quark.cn/s/6acbafe9809a"
+            }
+        ],
+        "screens": [
+            "/images/graphic00001.webp",
+            "/images/graphic00002.png",
+            "/images/graphic00003.png"
+        ],
+        "size": "",
+        "tags": "GraphicConverter,图片编辑,图像浏览,Mac破解版,图形设计",
+        "version": "v12.5.2",
+        "znName": "Mac强大的图片编辑浏览工具"
+    },
+    {
+        "architecture": "[\"ARM\",\"x86 (64-bit)\",\"ARM\",\"x86（64 位元）\"]",
         "description": "从音乐制作人的即时灵感到业界领先的乐器制作工具，KONTAKT 应有尽有。这个多功能平台不仅仅是一个采样器，还为近20年来的大片电影配乐和音乐排行榜冠军以及数以千计的惊人乐器提供了动力。\n\n新篇章：对于第七代KONTAKT，我们将其近20年的遗产带到未来。用一个新的可调整大小的浏览器轻松找到声音。改进的原厂音源库，新增加的效果器，和底层音频改进，让你可以探索新的音乐灵感，并找到新的创意。\n\n看起来不错，听起来更好：KONTAKT 7中重制的原厂音源库不仅提高了音质和数量的标准，也带来了我们的旗舰采样器的大且漂亮的 HiDPI 界面。掌握可无限播放且可调整的声学和电子乐器选择，包括来自 Orchestral Tools 的经过专业采样的大型管弦乐部分的新合集。\n\n更快地查找音色：如果你总是不得不寻找自己喜欢的声音，就很难保持在工作流中。因此，我们通过全新的浏览体验将它们暴露无遗。现在，你可以从你的收藏中搜索、筛选和试听单个声音，查看预设属性和编辑标签，甚至导入你的独立库和自制乐器中。\n\n最大的虚拟乐器集合：KONTAKT 是你通往最广泛的、随处可用的采样乐器集合的门户。NI 和其他领先制造商提供数百种官方授权的乐器，以及来自精品开发商、声音设计师和作曲家的数千种乐器，你永远不会缺乏灵感。\n\n梦想并创建它：你喜爱的所有 KONTAKT 库都在 KONTAKT 中构建，创建你自己的独特乐器可以像拖入单个采样一样简单，也可以如你想象的那样复杂。借助来自 GUITAR RIG 6 的新 Psyche Delay 和 Ring Modulator 效果，以及更新的时间拉伸算法，你的创作将比以往任何时候都更好。",
         "enName": "Native Instruments Kontakt",
         "icon": "/images/33eca5d46a43efa.png",
@@ -12,7 +35,10 @@
                 "url": "https://url34.ctfile.com/f/619634-17569765955688-b55e55?p=3832"
             }
         ],
-        "screens": ["/images/img-ce-kontakt-8-2.png","/images/img-ce-kontakt-8-1.png"],
+        "screens": [
+            "/images/img-ce-kontakt-8-2.png",
+            "/images/img-ce-kontakt-8-1.png"
+        ],
         "size": "",
         "tags": "Kontakt,Native Instruments,采样器,音频插件,Mac破解版",
         "version": "v8.10.1",
