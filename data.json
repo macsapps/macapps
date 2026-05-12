@@ -1,6 +1,27 @@
 [
     {
         "architecture": "[\"ARM\",\"x86 (64-bit)\",\"ARM\",\"x86（64 位元）\"]",
+        "description": "Fakin' The Funk? 是一款专门用于检测“假无损音频”的工具。检查你的音乐文件到底是不是真正高音质，而不是“低码率冒充无损”。\n\n核心功能\n\n检测假无损（核心功能）：\n识别 MP3 → FLAC、AAC → WAV、有损转无损等伪装文件。\n\n批量扫描音乐库：\n支持一次扫描整个音乐文件夹、NAS、音乐硬盘。非常适合收藏党。\n\n显示真实音质来源：\n例如会标记“Likely transcoded from MP3”、“Real lossless”、“Upscaled audio”。\n\n支持多种格式：\n包括 FLAC、WAV、ALAC、MP3、AAC、OGG 等。\n\n频谱可视化：\n可以直接看到高频是否断层，是否存在编码痕迹。对音频发烧友特别有用。",
+        "enName": "Fakin' The Funk?",
+        "icon": "/images/3c4c435141f5e6c.webp",
+        "installInfo": "",
+        "languages": "英语",
+        "myShare": [
+            {
+                "text": "v6.0.164",
+                "url": "https://pan.quark.cn/s/0ae9119bb344"
+            }
+        ],
+        "screens": [
+            "/images/c05be02a0c422ab.png"
+        ],
+        "size": "17 MB",
+        "tags": "音频检测,假无损,发烧友,Fakin' The Funk,媒体软件",
+        "version": "v6.0.164",
+        "znName": " Mac检测“假无损音频”的工具"
+    },
+    {
+        "architecture": "[\"ARM\",\"x86 (64-bit)\",\"ARM\",\"x86（64 位元）\"]",
         "description": "GraphicConverter在全球拥有超过150万忠实用户——从业余摄影师到专业设计师。媒体称此程序相当于“瑞士军刀”，将其描述为“Mac上照片编辑的通用天才”。\n\nGraphicConverter 提供 Mac 上全面图像编辑程序所需的一切，并具有易用性、出色的功能范围、稳定性和可靠性。\n\n导入和导出功能：\n- 导入约200种并导出约80种图形格式\n- 目录生成（网络、打印、图片）\n- 图片直接从相机导入（也称为RAW）\n- 通过TWAIN和图像捕获支持扫描仪\n- 直接支持照片服务Flickr和DPHOTO\n\n图片组织和工作流程管理：\n- 市场上最复杂、最灵活的元数据管理\n- 高级反向地理标记\n- 基于人工智能的自动关键字（提供多个人工智能引擎）\n- 图形文件和图片浏览器\n- 幻灯片放映功能\n- 批量转换\n- 对AppleScript的支持\n- 面部检测\n\n图片编辑：\n- 快速图片增强功能\n- 增强和创建用于互联网的图片\n- 编辑图片的基本功能\n- 用于图片操作的高级功能、效果和滤镜\n- 插件架构\n- 使用ColorSync和ICC配置文件进行颜色管理\n- 3D图像支持\n- 地理数据的广泛功能\n\n兼容：\n- 支持不同macOS版本的最新技术\n- 支持HEIC/HEIF、webP或JPEG2000等新格式\n- 多语种-有12种可用语言",
         "enName": "GraphicConverter",
         "icon": "/images/c3c85b2fe447008.webp",
@@ -17,7 +38,7 @@
             "/images/graphic00002.png",
             "/images/graphic00003.png"
         ],
-        "size": "",
+        "size": "260 MB",
         "tags": "GraphicConverter,图片编辑,图像浏览,Mac破解版,图形设计",
         "version": "v12.5.2",
         "znName": "Mac强大的图片编辑浏览工具"
